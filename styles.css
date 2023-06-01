@@ -6,9 +6,6 @@ body {
   flex-direction: column;
   min-height: 95vh;
 }
-.main {
-  flex: 1;
-}
 
 h1 {
   font-size: 5rem;
@@ -19,9 +16,11 @@ footer {
   color: midnightblue;
 }
 
-img {
-  max-width: 40%;
-  height: auto;
+.creative{
+  color: midnightblue;
 }
 
-
+img {
+  max-width: 50%;
+  height: auto;
+}
